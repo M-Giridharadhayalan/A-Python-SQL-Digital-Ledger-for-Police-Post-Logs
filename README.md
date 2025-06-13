@@ -1,1 +1,2 @@
 # A-Python-SQL-Digital-Ledger-for-Police-Post-Logs
+Police check posts often rely on manual logging and outdated databases, leading to inefficiencies in tracking and analyzing vehicle movements. To enhance security and streamline operations, this project aims to develop an SQL-based check post database integrated with a Python-powered dashboard for real-time insights and alerts. By automating data entry, optimizing queries, and visualizing trends dynamically, officers can quickly assess risks, flag suspicious activity, and improve overall security monitoring at checkpoints.
